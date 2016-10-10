@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Bonjour Nalid273</title>
     </head>
     <body>
-        <p>Votre compte semble avoir été piraté. Veuillez contacter un administrateur.</p>
+        <p>Votre compte semble avoir été piraté. Veuillez contacter un administrateur. PS: voir damien</p>
         <?php
         // put your code here
         ?>
