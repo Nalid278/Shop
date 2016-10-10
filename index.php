@@ -7,9 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Bonjour Nalid273</title>
     </head>
     <body>
+        <p>Votre compte semble avoir été piraté. Veuillez contacter un administrateur.</p>
         <?php
         // put your code here
         ?>
